@@ -8,7 +8,8 @@
 
 <br />
 <br />
-[![Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/vchi-dev)](https://github.com/https://github.com/vchi-dev/github-readme-stats)
+<img alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vchi-dev&show_icons=true&hide_border=true&hide=stars,prs,contribs&theme=tokyonight" />
+<img alt="Vincent's Frequent Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchi-dev&theme=tokyonight&layout=compact" />
 <br />
 <br />
 
