@@ -6,10 +6,10 @@
 - 🎈 Fun Fact: I am an educational content creator who has a knack for visual design.
 
 ### Connect with Me:
-[(./readme_assets/linkedin.png)](https://www.linkedin.com/in/vincent-chi-developer/)
+[(./assets/linkedin.png)](https://www.linkedin.com/in/vincent-chi-developer/)
 &nbsp;&nbsp;
-[(./readme_assets/github.png)](https://github.com/vchi-dev/)
+[(./assets/github.png)](https://github.com/vchi-dev/)
 \
 Please note that I have two deactivated GitHub profiles from high-school and college:\
-High School: [(./readme_assets/github.png)](https://github.com/vchi90/)\
-College: [(./readme_assets/github.png)](https://github.com/vchiSBU/)\
+High School: [(.assets/github.png)](https://github.com/vchi90/)\
+College: [(.assets/github.png)](https://github.com/vchiSBU/)\
