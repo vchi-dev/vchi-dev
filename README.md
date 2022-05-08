@@ -17,8 +17,7 @@ Email Me: <a href="mailto:vchi-dev@proto.me">vchi-dev@proto.me</a>\
 My LinkedIn: <a href="https://www.linkedin.com/in/vincent-chi-developer/">My LinkedIn Profile</a>
 
 <br />
-<br />
 
-Please note that I also have two deactivated GitHub profiles from high-school and college:\
+Please note that I also have two deactivated GitHub profiles from high school and college:\
 High School: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchi90</a>\
 College: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchiSBU</a>
