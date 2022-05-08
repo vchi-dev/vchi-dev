@@ -1,4 +1,4 @@
-[<img src="/assets/mona-whisper.gif" width="50px" height="50px">]\
+<img src="/assets/mona-whisper.gif" width="50px" height="50px">
 ### 👋 Hi there, my name is Vincent. I am a Software Engineer/Developer.
 - 🧑‍💻 I am a Developer, Software Engineer, Student, Programmer, Hacker, and Gamer.
 - 🌱 I am currently growing and learning all sorts of new technologies.
@@ -6,10 +6,11 @@
 - 🎈 Fun Fact: I am an educational content creator who has a knack for visual design.
 
 ### Connect with Me:
-[![Linkedin: vincent-chi-developer]](https://www.linkedin.com/in/vincent-chi-developer/)
-&nbsp;&nbsp;
-[![GitHub Vincent]](https://github.com/vchi-dev/)
+My Website: <a href="https://vchi-dev.github.io/" target="_blank">https://vchi-dev.github.io</a>\
+My GitHub: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchi-dev</a>\
+Email Me: <a href="mailto:vchi-dev@proto.me">vchi-dev@proto.me</a>\
+My LinkedIn: <a href="https://www.linkedin.com/in/vincent-chi-developer/">My LinkedIn Profile</a>
 \
 Please note that I have two deactivated GitHub profiles from high-school and college:\
-High School: [![GitHub Vincent]](https://github.com/vchi90/)\
-College: [![GitHub Vincent]](https://github.com/vchiSBU/)
+High School: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchi90</a>\
+College: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchiSBU</a>
