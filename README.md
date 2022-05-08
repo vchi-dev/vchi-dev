@@ -8,7 +8,7 @@
 
 <br />
 <img alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vchi-dev&show_icons=true&hide_border=true&hide=stars,prs,contribs&theme=tokyonight" />
-<img alt="Vincent's Frequent Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchi-dev&theme=tokyonight&layout=compact" />
+<img alt="Vincent's Frequent Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchi-dev&theme=tokyonight&layout=compact&hide_border" />
 
 ### Connect with Me:
 My Website: <a href="https://vchi-dev.github.io/" target="_blank">https://vchi-dev.github.io</a>\
