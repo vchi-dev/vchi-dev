@@ -13,7 +13,7 @@
 ### Connect with Me:
 My Website: <a href="https://vchi-dev.github.io/portfolio-website/" target="_blank">https://vchi-dev.github.io/portfolio-website</a>\
 My GitHub: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchi-dev</a>\
-Email Me: <a href="mailto:vchi.dev@proto.me">vchi.dev@proton.me</a>\
+Email Me: <a href="mailto:vchi.dev@proton.me">vchi.dev@proton.me</a>\
 My LinkedIn: <a href="https://www.linkedin.com/in/vincent-chi-developer/">My LinkedIn Profile</a>
 
 <br />
