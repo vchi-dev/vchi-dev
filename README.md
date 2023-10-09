@@ -7,7 +7,6 @@
 - 🎈 Fun Fact: I am an educational content creator who has a knack for visual design.
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=vchi-dev&show_icons=true&hide_border=true&hide=stars,prs,contribs&theme=react" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchi-dev&layout=compact&hide_border&hide=jupyter%20notebook&theme=react" />
 
 ### Connect with Me:
