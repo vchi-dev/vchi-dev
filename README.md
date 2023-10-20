@@ -1,7 +1,7 @@
 <img src="/assets/mona-whisper.gif" width="50px" height="50px">
 
 ### Hi there, my name is Vincent. I am a Software Engineer/Developer. 👋
-- 🧑‍💻 I am a Developer, Software Engineer, Student, Programmer, Hacker, and Gamer.
+- 🧑‍💻 I am a Software Engineer.
 - 🌱 I am currently growing and learning all sorts of new technologies.
 - 💼 I am looking to work for a company that makes revolutionary software products.
 - 🎈 Fun Fact: I am an educational content creator who has a knack for visual design.
