@@ -17,5 +17,5 @@ LinkedIn: <a href="https://www.linkedin.com/in/vincent-chi-developer/">https://w
 <br />
 
 Previous Github profiles :\
-College: <a href="https://github.com/vchiSBU/" target="_blank">https://github.com/vchiSBU</a>
-High School: <a href="https://github.com/vchi90/" target="_blank">https://github.com/vchi90</a>\
+College: <a href="https://github.com/vchiSBU/" target="_blank">https://github.com/vchiSBU</a>\
+High School: <a href="https://github.com/vchi90/" target="_blank">https://github.com/vchi90</a>
