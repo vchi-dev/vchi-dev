@@ -1,10 +1,10 @@
 <img src="/assets/mona-whisper.gif" width="50px" height="50px">
 
-### Hi there, my name is Vincent. I am a Software Engineer/Developer. 👋
+### Hi there, my name is Vincent. 👋
 - 🧑‍💻 I am a Software Engineer.
-- 🌱 I am currently growing and learning all sorts of new technologies.
-- 💼 I am looking to work for a company that makes revolutionary software products.
-- 🎈 Fun Fact: I am an educational content creator who has a knack for visual design.
+- 🌱 I am currently growing and learning new technologies while creating innovative solutions.
+- 💼 I am looking make an impact and expand my skillsets & capabilities as an engineer.
+- 🎈 Fun Fact: I pay great attention to user experiences and as a result, I am incredibly detail oriented and love user-friendly features.
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchi-dev&layout=compact&hide_border&hide=jupyter%20notebook&theme=react" />
