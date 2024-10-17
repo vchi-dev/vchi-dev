@@ -10,9 +10,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchi-dev&layout=compact&hide_border&hide=jupyter%20notebook&theme=react" />
 
 ### Connect with Me:
-My GitHub: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchi-dev</a>\
+GitHub: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchi-dev</a>\
 Email Me: <a href="mailto:vchi.dev@proton.me">vchi.dev@proton.me</a>\
-My LinkedIn: <a href="https://www.linkedin.com/in/vincent-chi-developer/">https://www.linkedin.com/in/vincent-chi-developer/</a>
+LinkedIn: <a href="https://www.linkedin.com/in/vincent-chi-developer/">https://www.linkedin.com/in/vincent-chi-developer/</a>
 
 <br />
 
