@@ -12,10 +12,10 @@
 ### Connect with Me:
 GitHub: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchi-dev</a>\
 Email Me: <a href="mailto:vchi.dev@proton.me">vchi.dev@proton.me</a>\
-LinkedIn: <a href="https://www.linkedin.com/in/vincent-chi-developer/">https://www.linkedin.com/in/vincent-chi-developer/</a>
+LinkedIn: <a href="https://www.linkedin.com/in/vincent-chi-developer/">https://www.linkedin.com/in/vincent-chi-developer</a>
 
 <br />
 
-Please note that I also have two deactivated GitHub profiles from high school and college:\
-High School: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchi90</a>\
-College: <a href="https://github.com/vchi-dev/" target="_blank">https://github.com/vchiSBU</a>
+Previous Github profiles :\
+College: <a href="https://github.com/vchiSBU/" target="_blank">https://github.com/vchiSBU</a>
+High School: <a href="https://github.com/vchi90/" target="_blank">https://github.com/vchi90</a>\
